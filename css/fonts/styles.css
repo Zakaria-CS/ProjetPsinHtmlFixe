@@ -14,7 +14,7 @@
         background: #E8E;
     }
     body {
-        background: url('/img/toureiffel.jpg') no-repeat center center fixed ;
+        background: url(toureiffel.jpg') no-repeat center center fixed ;
         background-size: cover;
         
     }
